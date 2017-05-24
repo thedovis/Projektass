@@ -32,4 +32,11 @@ public class Controller {
         programa.Nuskaitymas();
         programa.Skaiciavimas();
     }
+
+    public void SkaiciausKelimasLaipsniu(){
+        SkaiciausKelimasLaipsniu programa = new SkaiciausKelimasLaipsniu();
+        programa.Paklausimas();
+        programa.Nuskaitymas();
+        programa.Kelimas();
+    }
 }

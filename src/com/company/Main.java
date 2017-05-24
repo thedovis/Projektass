@@ -22,6 +22,9 @@ public class Main {
                 break;
             case 4:
                 kontroleris.KMI();
+                break;
+            case 5:
+                kontroleris.SkaiciausKelimasLaipsniu();
         }
     }
 }
